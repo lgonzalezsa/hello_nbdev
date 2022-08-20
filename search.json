@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Project name here",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "Project name here",
+    "section": "Install",
+    "text": "Install\npip install your_project_name"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "Project name here",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\nsay_hello(\"Luis\")\n\n'Hello Luis!'"
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "module name here",
+    "section": "",
+    "text": "say_hello\n\n say_hello (to:str)\n\nSay hello to somebody\n\n\n\n\nType\nDetails\n\n\n\n\nto\nstr\nName of the person to say hello!"
+  },
+  {
+    "objectID": "cross.html",
+    "href": "cross.html",
+    "title": "Testing cross-reference with holoviews charts",
+    "section": "",
+    "text": "?(caption)\n\n\n\n\n  \n\n\n(a) Holoviews example\n\n\nFigure 1: ?(caption)\n\n\n\n\n\n\n<seaborn.axisgrid.PairGrid>\n(a) Seaborn pairplot example\n\n\n\n\n\n\n(b)\n\n\n\nFigure 2: ?(caption)"
+  }
+]
